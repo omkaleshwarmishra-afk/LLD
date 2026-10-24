@@ -1,4 +1,4 @@
 package LLD.SOLID.S.WithOutPrinciple;
 
-public class employee {
+public class employee2Repository {
 }
